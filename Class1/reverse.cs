@@ -71,7 +71,7 @@ namespace Class1
 
         Console.WriteLine("Enter String");
             string S1 = "Kiran";
-            string S1 = Console.ReadLine();
+            //string S1 = Console.ReadLine();
         string S2 = S1.Substring(S1.Length - 3,2);
             Console.WriteLine(S2);
       //  Console.WriteLine(S2.Substring(2,1)+ S2.Substring(1, 1)+ S2.Substring(0, 1));
